@@ -30,8 +30,6 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.IPTextBox = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.portTextBox = new System.Windows.Forms.TextBox();
             this.connButton = new System.Windows.Forms.Button();
             this.subTextBox = new System.Windows.Forms.TextBox();
             this.pubTextBox = new System.Windows.Forms.TextBox();
@@ -54,25 +52,8 @@
             // 
             this.IPTextBox.Location = new System.Drawing.Point(53, 10);
             this.IPTextBox.Name = "IPTextBox";
-            this.IPTextBox.Size = new System.Drawing.Size(143, 20);
+            this.IPTextBox.Size = new System.Drawing.Size(240, 20);
             this.IPTextBox.TabIndex = 1;
-            this.IPTextBox.Text = "167.205.43.219";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(202, 13);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(32, 13);
-            this.label2.TabIndex = 2;
-            this.label2.Text = "Port :";
-            // 
-            // portTextBox
-            // 
-            this.portTextBox.Location = new System.Drawing.Point(240, 9);
-            this.portTextBox.Name = "portTextBox";
-            this.portTextBox.Size = new System.Drawing.Size(53, 20);
-            this.portTextBox.TabIndex = 3;
             // 
             // connButton
             // 
@@ -126,7 +107,6 @@
             this.topicTextBox.Name = "topicTextBox";
             this.topicTextBox.Size = new System.Drawing.Size(240, 20);
             this.topicTextBox.TabIndex = 9;
-            this.topicTextBox.Text = "ELKA/DHT/temp";
             // 
             // subButton
             // 
@@ -150,8 +130,6 @@
             this.Controls.Add(this.pubTextBox);
             this.Controls.Add(this.subTextBox);
             this.Controls.Add(this.connButton);
-            this.Controls.Add(this.portTextBox);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.IPTextBox);
             this.Controls.Add(this.label1);
             this.Name = "Form1";
@@ -165,8 +143,6 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox IPTextBox;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.TextBox portTextBox;
         private System.Windows.Forms.Button connButton;
         private System.Windows.Forms.TextBox subTextBox;
         private System.Windows.Forms.TextBox pubTextBox;
