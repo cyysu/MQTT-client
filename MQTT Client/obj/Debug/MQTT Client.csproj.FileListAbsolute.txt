@@ -1,0 +1,11 @@
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\bin\Debug\MQTT Client.exe.config
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\bin\Debug\MQTT Client.exe
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\bin\Debug\MQTT Client.pdb
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\bin\Debug\M2Mqtt.Net.dll
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.csprojResolveAssemblyReference.cache
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\obj\Debug\MQTT_Client.Form1.resources
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\obj\Debug\MQTT_Client.Properties.Resources.resources
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.csproj.GenerateResource.Cache
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.exe
+C:\Users\fadhl\Documents\Visual Studio 2015\Projects\MQTT Client\MQTT Client\obj\Debug\MQTT Client.pdb
